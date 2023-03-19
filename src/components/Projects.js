@@ -22,11 +22,12 @@ function Projects() {
         "Forkify is a recipe search engine that helps you find and save your favorite recipes. With Forkify, you can browse thousands of recipes from around the world and easily filter them by ingredients or dietary restrictions. You can also save and organize your favorite recipes in your own personal cookbook. Whether you're a seasoned chef or just learning your way around the kitchen, Forkify is the perfect tool to help you discover new and delicious recipes.",
       link: "https://scott-forkify.netlify.app",
     },
-    // {
-    //   title: "Project Four",
-    //   intro: "This is an introduction to project four.",
-    //   link: "https://www.example.com/project-four",
-    // },
+    {
+      title: "Route Simulator Mapping Tool",
+      intro:
+        "The simulator tool is mainly developed for exploring Antarctica, but it could be also used in certain ways. It helps users to find the shortest route based on the map uploaded. We believed it could be the prototype and foundation of many applications. Our simulator is designed to use the logic of 2D arrays and an algorithm of converting images into numbers on the RGB scale (0-255). The user or client will choose two points from the map best represented in contour lines. The numbers define the altitude, the higher the number the higher the altitude.",
+      link: "https://https://scott-rnd.netlify.app",
+    },
     // {
     //   title: "Project Five",
     //   intro: "This is an introduction to project five.",
