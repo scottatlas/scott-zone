@@ -1,0 +1,125 @@
+/* .project-item {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  margin-bottom: 10rem;
+  width: 100%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.project-item .title {
+  font-size: 2rem;
+  margin-right: 2rem;
+  flex-shrink: 0;
+}
+
+.project-item .project-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-item .project-info p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.project-item .project-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.project-item .project-links a {
+  color: #333333;
+  text-decoration: none;
+  font-size: 1.2rem;
+  margin-left: 1rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.project-item .project-links a:hover {
+  color: #007bff;
+} */
+
+/* .project-item {
+  display: flex;
+  padding: 1rem;
+  margin-bottom: 4rem;
+}
+
+.project-item .title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.project-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.project-info p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.project-links {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.project-links a {
+  color: #333333;
+  text-decoration: none;
+  font-size: 1.2rem;
+  margin-left: 1rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.project-links a:hover {
+  color: #007bff;
+} */
+
+.project-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 5px;
+}
+
+.project-item .title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.project-item .project-info {
+  flex: 1;
+  margin-left: 2rem;
+}
+
+.project-item .project-info p {
+  margin-bottom: 1rem;
+}
+
+.project-item .project-links {
+  margin-left: auto;
+}
+
+.project-item .project-links a {
+  color: #6d6e6e;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.project-item .project-links a:hover {
+  color: #0056b3;
+}
