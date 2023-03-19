@@ -96,8 +96,9 @@
 }
 
 .project-item .title {
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
+  white-space: pre-wrap;
 }
 
 .project-item .project-info {

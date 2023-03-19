@@ -23,10 +23,10 @@ function Projects() {
       link: "https://scott-forkify.netlify.app",
     },
     {
-      title: "Route Simulator Mapping Tool",
+      title: "Pathfinding\nSimulator",
       intro:
         "The simulator tool is mainly developed for exploring Antarctica, but it could be also used in certain ways. It helps users to find the shortest route based on the map uploaded. We believed it could be the prototype and foundation of many applications. Our simulator is designed to use the logic of 2D arrays and an algorithm of converting images into numbers on the RGB scale (0-255). The user or client will choose two points from the map best represented in contour lines. The numbers define the altitude, the higher the number the higher the altitude.",
-      link: "https://https://scott-rnd.netlify.app",
+      link: "https://scott-rnd.netlify.app",
     },
     // {
     //   title: "Project Five",
